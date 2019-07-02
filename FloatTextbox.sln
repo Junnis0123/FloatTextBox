@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "texstst\test.csproj", "{A7461A4E-5C31-4902-BAB5-B1027CEE792F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatTextBox", "FloatTextBox\FloatTextBox.csproj", "{9EFF6E4E-49BF-4DA9-992C-56D5C910723E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7461A4E-5C31-4902-BAB5-B1027CEE792F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7461A4E-5C31-4902-BAB5-B1027CEE792F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7461A4E-5C31-4902-BAB5-B1027CEE792F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7461A4E-5C31-4902-BAB5-B1027CEE792F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFF6E4E-49BF-4DA9-992C-56D5C910723E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFF6E4E-49BF-4DA9-992C-56D5C910723E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFF6E4E-49BF-4DA9-992C-56D5C910723E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFF6E4E-49BF-4DA9-992C-56D5C910723E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11393423-D463-410B-A39B-DCFDACABF8FA}
+	EndGlobalSection
+EndGlobal
